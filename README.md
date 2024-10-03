@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Philip Michvong! 👋
 
-<!--
-**PhilipMichvong/PhilipMichvong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Network Engineer & DevOps Enthusiast**
 
-Here are some ideas to get you started:
+🎓 Master of Engineering in IT, specializing in Network Infrastructure and Programing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Languages and technologies I work with**:
+- Python 🐍
+- C# 💻
+- SQL 🗄️
+- Flutter 🖥️
+- Networking 💻
+
+📚 **Current role**: Network Engineer, optimizing and maintaining network performance for large-scale infrastructures. In free time and as a self-developing task i make mobile aps, fight with automation etc
+
+⚡ **Fun facts**:
+- 1st place at Hackyeah2023 Hackathon in Cracow
+- 2nd place at #Supervision_hack 2023 Hackathon in Warsaw
+- Finalist in NATO TIDE Hackathon 2023
+- Love automating workflows
+
+🌐 [My GitHub Repositories](https://github.com/PhilipMichvong?tab=repositories)
