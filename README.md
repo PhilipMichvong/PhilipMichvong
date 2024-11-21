@@ -9,6 +9,7 @@
 - C# 💻
 - SQL 🗄️
 - Flutter 🖥️
+- React 💻
 - Networking 💻
 
 📚 **Current role**: Network Engineer, optimizing and maintaining network performance for large-scale infrastructures. In free time and as a self-developing task i make mobile aps, fight with automation etc
